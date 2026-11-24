@@ -8,7 +8,7 @@ def get_conn():
         host = 'localhost',
         dbname = 'password_vault',
         user = 'postgres',
-        password = '1',
+        password = '*',
         port = 5432
         ) 
 
